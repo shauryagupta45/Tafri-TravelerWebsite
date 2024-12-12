@@ -1,0 +1,54 @@
+﻿@model Frontend.Models.PackageCollection
+
+<h2>Add New Package</h2>
+
+<form asp-action="AddPackage" method="post">
+    <div class="form-group">
+        <label asp-for="PackageName"></label>
+        <input asp-for="PackageName" class="form-control" />
+        <span asp-validation-for="PackageName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Source"></label>
+        <input asp-for="Source" class="form-control" />
+        <span asp-validation-for="Source" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Destination"></label>
+        <input asp-for="Destination" class="form-control" />
+        <span asp-validation-for="Destination" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="FASL"></label>
+        <input asp-for="FASL" class="form-control" type="text" />
+        <span asp-validation-for="FASL" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Duration"></label>
+        <input asp-for="Duration" class="form-control" type="number" />
+        <span asp-validation-for="Duration" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Quantity"></label>
+        <input asp-for="Quantity" class="form-control" type="number" />
+        <span asp-validation-for="Quantity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PackagePrice"></label>
+        <input asp-for="PackagePrice" class="form-control" type="number" />
+        <span asp-validation-for="PackagePrice" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PackageDesc"></label>
+        <textarea asp-for="PackageDesc" class="form-control"></textarea>
+        <span asp-validation-for="PackageDesc" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Package</button>
+</form>

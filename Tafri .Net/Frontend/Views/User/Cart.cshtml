@@ -1,0 +1,44 @@
+﻿@model List<Frontend.Models.Package>
+
+@{
+    ViewData["Title"] = "My Cart";
+}
+
+<div class="container mt-5">
+    <h1>My Cart</h1>
+    @if (Model != null && Model.Any())
+    {
+        <div class="row">
+            @foreach (var package in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100 shadow-sm">
+
+                        <div class="card-body">
+                            <h5 class="card-title">@package.PackageName</h5>
+                            <p class="card-text">@package.PackageDesc</p>
+                            <p><strong>Source:</strong> @package.Source</p>
+                            <p><strong>Destination:</strong> @package.Destination</p>
+                            <p><strong>Duration:</strong> @package.Duration days</p>
+                            <p><strong>Price:</strong> @package.PackagePrice.ToString("C")</p>
+                            <form asp-controller="User" asp-action="RemoveFromCart" method="get">
+                                <input type="hidden" name="packageId" value="@package.PackageId" />
+                                <button type="submit" class="btn btn-danger">Remove from Cart</button>
+                            </form>
+                            <form method="get" asp-action="Checkout">
+                                <input type="hidden" name="packageId" value="@package.PackageId" />
+                                <button type="submit" class="btn btn-success">Book Package</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info">
+            Your cart is empty.
+        </div>
+    }
+</div>

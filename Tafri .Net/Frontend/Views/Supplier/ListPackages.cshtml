@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Frontend.Models.Package>
+
+<h2>Your Packages</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Package Name</th>
+            <th>Destination</th>
+            <th>Price</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var package in Model)
+        {
+            <tr>
+                <td>@package.PackageName</td>
+                <td>@package.Destination</td>
+                <td>@package.PackagePrice</td>
+                <td>@(package.SupplierStatus)</td>
+                <td>@(package.AdminStatus)</td>
+                <td>
+                    <a asp-action="UpdatePackage" asp-route-id="@package.PackageId" class="btn btn-warning">Update</a>
+                    <a asp-action="DeactivatePackage" asp-route-id="@package.PackageId" class="btn btn-danger">Deactivate</a>
+                    <a asp-action="ActivatePackage" asp-route-id="@package.PackageId" class="btn btn-success">Activate</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<button><a asp-action="AddPackage"  class="btn btn-warning">Update</a></button>

@@ -1,0 +1,52 @@
+﻿@model Frontend.Models.BookingsDTO
+
+@{
+    ViewData["Title"] = "Get Booking By Booking ID";
+}
+
+<h2 class="mb-4">@ViewData["Title"]</h2>
+
+<!-- Form to submit Booking ID -->
+<form method="post" class="mb-4">
+    <div class="form-group">
+        <label for="bookingId" class="form-label">Booking ID:</label>
+        <input type="number" id="bookingId" name="bookingId" class="form-control @((ViewData.ModelState.IsValid) ? "" : "is-invalid")" required />
+        @Html.ValidationMessageFor(model => model.BookingId, "", new { @class = "invalid-feedback" })
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Submit</button>
+</form>
+
+<!-- Display validation errors -->
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>Oops!</strong> There was an issue with your request:
+        <ul class="mb-0">
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (Model != null)
+{
+    <!-- Display booking details -->
+    <div class="card mt-4">
+        <div class="card-header">
+            <h5 class="card-title">Booking Details</h5>
+        </div>
+        <div class="card-body">
+            <p><strong>Booking ID:</strong> @Model.BookingId</p>
+            <p><strong>User ID:</strong> @Model.UserId</p>
+            <p><strong>Package ID:</strong> @Model.PackageId</p>
+            <p><strong>Journey Start Datetime:</strong> @Model.JourneyStartDatetime</p>
+            <p><strong>Package Name:</strong> @Model.PackageName</p>
+            <p><strong>Source:</strong> @Model.Source</p>
+            <p><strong>Destination:</strong> @Model.Destination</p>
+            <p><strong>FASL:</strong> @Model.FASL</p>
+        </div>
+    </div>
+}

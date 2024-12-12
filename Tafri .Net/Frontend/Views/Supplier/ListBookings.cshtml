@@ -1,0 +1,48 @@
+﻿@model List<Frontend.Models.Booking>
+
+@{
+    ViewData["Title"] = "Supplier Bookings";
+}
+
+<div class="container mt-5">
+    <h1>Bookings</h1>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Booking ID</th>
+                    <th>Package Name</th>
+                    <th>User ID</th>
+                    <th>Source</th>
+                    <th>Destination</th>
+                    <th>FASL</th>
+                    <th>Journey Start Date</th>
+                    <th>Supplier Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var booking in Model)
+                {
+                    <tr>
+                        <td>@booking.BookingId</td>
+                        <td>@booking.PackageName</td>
+                        <td>@booking.UserId</td>
+                        <td>@booking.Source</td>
+                        <td>@booking.Destination</td>
+                        <td>@booking.FASL</td>
+                        <td>@booking.JourneyStartDatetime.ToString("yyyy-MM-dd HH:mm")</td>
+                        <td>@booking.SupplierStatus</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info">
+            No bookings available for your packages.
+        </div>
+    }
+</div>

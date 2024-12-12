@@ -1,0 +1,72 @@
+﻿@model Frontend.Models.RegisterUserCollection
+
+<h2>Register</h2>
+
+<form asp-action="Register" method="post">
+    <div class="form-group">
+        <label asp-for="UserName"></label>
+        <input asp-for="UserName" class="form-control" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UserEmail"></label>
+        <input asp-for="UserEmail" class="form-control" type="email" />
+        <span asp-validation-for="UserEmail" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UserPassword"></label>
+        <input asp-for="UserPassword" class="form-control" type="password" />
+        <span asp-validation-for="UserPassword" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UserPhoneNumber"></label>
+        <input asp-for="UserPhoneNumber" class="form-control" />
+        <span asp-validation-for="UserPhoneNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UserDOB"></label>
+        <input asp-for="UserDOB" class="form-control" type="date" />
+        <span asp-validation-for="UserDOB" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="UserGender"></label>
+        <select asp-for="UserGender" class="form-control">
+            <option value="">Select Gender</option>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </select>
+        <span asp-validation-for="UserGender" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="AddressDesc"></label>
+        <textarea asp-for="AddressDesc" class="form-control"></textarea>
+        <span asp-validation-for="AddressDesc" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="City"></label>
+        <input asp-for="City" class="form-control" />
+        <span asp-validation-for="City" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="State"></label>
+        <input asp-for="State" class="form-control" />
+        <span asp-validation-for="State" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Pincode"></label>
+        <input asp-for="Pincode" class="form-control" type="number" />
+        <span asp-validation-for="Pincode" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Lat"></label>
+        <input asp-for="Lat" class="form-control" />
+        <span asp-validation-for="Lat" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Long"></label>
+        <input asp-for="Long" class="form-control" />
+        <span asp-validation-for="Long" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>

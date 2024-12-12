@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Frontend.Models.Package>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<h2>All Admin Approved Packages</h2>
+
+@if (Model.Any())
+{
+    foreach (var package in Model)
+    {
+        // Choose the header color based on SupplierStatus
+        var cardHeaderClass = package.SupplierStatus == "Active" ? "bg-light-green text-dark" : "bg-light-red text-dark";
+
+        <div class="card mb-3">
+            <div class="card-header @cardHeaderClass">
+                <h5 class="card-title">@package.PackageName</h5>
+                <p class="card-subtitle text-muted">Package ID: @package.PackageId | Supplier ID: @package.SupplierId</p>
+            </div>
+            <div class="card-body">
+                <p class="card-text">@package.PackageDesc</p>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p><strong>Source:</strong> @package.Source</p>
+                        <p><strong>Destination:</strong> @package.Destination</p>
+                        <p><strong>FASL:</strong> @package.FASL</p>
+                        <p><strong>Duration:</strong> @package.Duration days</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p><strong>Price:</strong> ₹@package.PackagePrice</p>
+                        <p><strong>Company Profit:</strong> ₹@package.CompanyProfit</p>
+                        <p><strong>Quantity Available:</strong> @package.Quantity</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-footer text-muted">
+                <p><strong>Supplier Status:</strong> @package.SupplierStatus</p>
+                <p><strong>Admin Status:</strong> @package.AdminStatus</p>
+
+                <form method="post" action="@Url.Action("DeactivatePackage", "Admin")" style="display:inline;">
+                    <input type="hidden" name="packageId" value="@package.PackageId" />
+                    <button type="submit" class="btn btn-danger">Set Pending</button>
+                </form>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p>No admin-approved packages found.</p>
+}
+
+<style>
+    .bg-light-green {
+        background-color: #d4edda;
+    }
+
+    .bg-light-red {
+        background-color: #f8d7da;
+    }
+
+    .text-dark {
+        color: #343a40;
+    }
+</style>

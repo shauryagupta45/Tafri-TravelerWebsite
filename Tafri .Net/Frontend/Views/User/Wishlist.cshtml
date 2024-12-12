@@ -1,0 +1,43 @@
+﻿@model List<Frontend.Models.Package>
+
+@{
+    ViewData["Title"] = "My Wishlist";
+}
+
+<div class="container mt-5">
+    <h1>My Wishlist</h1>
+    @if (Model != null && Model.Any())
+    {
+            <div class="row">
+            @foreach (var package in Model)
+            {
+                        <div class="col-md-4 mb-4">
+                            <div class="card h-100 shadow-sm">
+                                <div class="card-body">
+                                    <h5 class="card-title">@package.PackageName</h5>
+                                    <p class="card-text">@package.PackageDesc</p>
+                                    <p><strong>Source:</strong> @package.Source</p>
+                                    <p><strong>Destination:</strong> @package.Destination</p>
+                                    <p><strong>Duration:</strong> @package.Duration days</p>
+                                    <p><strong>Price:</strong> @package.PackagePrice.ToString("C")</p>
+                                    <form asp-controller="Package" asp-action="AddToCart" method="get">
+                                        <input type="hidden" name="packageId" value="@package.PackageId" />
+                                        <button type="submit" class="btn btn-primary">Add to Cart</button>
+                                    </form>
+                                    <form asp-controller="User" asp-action="RemoveFromWishlist" method="get">
+                                        <input type="hidden" name="packageId" value="@package.PackageId" />
+                                        <button type="submit" class="btn btn-danger">Remove from Wishlist</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+            }
+            </div>
+    }
+    else
+    {
+            <div class="alert alert-info">
+                Your wishlist is empty.
+            </div>
+    }
+</div>

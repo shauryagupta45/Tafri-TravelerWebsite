@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Frontend.Models.Booking>
+
+@{
+    ViewBag.Title = "User Bookings";
+}
+
+<h2>User Bookings</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Booking ID</th>
+            <th>Package Name</th>
+            <th>Source</th>
+            <th>Destination</th>
+            <th>Journey Start Date & Time</th>
+            <th>FASL</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var booking in Model)
+        {
+            <tr>
+                <td>@booking.BookingId</td>
+                <td>@booking.PackageName</td>
+                <td>@booking.Source</td>
+                <td>@booking.Destination</td>
+                <td>@booking.JourneyStartDatetime.ToString("dd/MM/yyyy hh:mm tt")</td>
+                <td>@booking.FASL</td>
+                <td>
+                    <!-- Add any actions like view details, cancel, etc. -->
+                    <a href="@Url.Action("ViewBooking", "User", new { bookingId = booking.BookingId })" class="btn btn-primary">View</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

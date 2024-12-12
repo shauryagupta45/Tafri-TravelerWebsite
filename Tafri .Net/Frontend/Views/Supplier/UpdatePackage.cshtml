@@ -1,0 +1,33 @@
+﻿@model Frontend.Models.Package
+
+<h2>Update Package</h2>
+
+<form asp-action="UpdatePackage" method="post">
+    <input type="hidden" asp-for="PackageId" />
+
+    <div class="form-group">
+        <label asp-for="PackageName"></label>
+        <input asp-for="PackageName" class="form-control" />
+        <span asp-validation-for="PackageName" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Destination"></label>
+        <input asp-for="Destination" class="form-control" />
+        <span asp-validation-for="Destination" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PackagePrice"></label>
+        <input asp-for="PackagePrice" class="form-control" type="number" />
+        <span asp-validation-for="PackagePrice" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="PackageDesc"></label><a href="c:\users\gausar01\downloads\tafriholidays\tafriholidays\api\frontend\views\supplier\updatepackage.cshtml">c:\users\gausar01\downloads\tafriholidays\tafriholidays\api\frontend\views\supplier\updatepackage.cshtml</a>
+        <textarea asp-for="PackageDesc" class="form-control"></textarea>
+        <span asp-validation-for="PackageDesc" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Update Package</button>
+</form>

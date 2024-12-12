@@ -1,0 +1,32 @@
+﻿@model List<Booking>
+
+@{
+    ViewData["Title"] = "List of Bookings";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="container">
+    <div class="row">
+        @foreach (var booking in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <div class="card-header">
+                        Booking ID: @booking.BookingId
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">@booking.PackageName</h5>
+                        <p class="card-text">
+                            <strong>User ID:</strong> @booking.UserId<br>
+                            <strong>Journey Start:</strong> @booking.JourneyStartDatetime<br>
+                            <strong>Source:</strong> @booking.Source<br>
+                            <strong>Destination:</strong> @booking.Destination<br>
+                            <strong>FASL:</strong> @booking.FASL
+                        </p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

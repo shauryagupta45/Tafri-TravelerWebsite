@@ -1,0 +1,55 @@
+﻿@model Frontend.Models.SupplierRegisterCollection
+
+<h2>Supplier Registration</h2>
+
+<form asp-action="Register" method="post">
+    <div class="form-group">
+        <label asp-for="SupplierName"></label>
+        <input asp-for="SupplierName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierContactNumber"></label>
+        <input asp-for="SupplierContactNumber" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierEmail"></label>
+        <input asp-for="SupplierEmail" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierPassword"></label>
+        <input asp-for="SupplierPassword" type="password" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierGSTNumber"></label>
+        <input asp-for="SupplierGSTNumber" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierAadhar"></label>
+        <input asp-for="SupplierAadhar" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierAddress"></label>
+        <input asp-for="SupplierAddress" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierCity"></label>
+        <input asp-for="SupplierCity" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierState"></label>
+        <input asp-for="SupplierState" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierPincode"></label>
+        <input asp-for="SupplierPincode" type="number" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierLatitude"></label>
+        <input asp-for="SupplierLatitude" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SupplierLongitude"></label>
+        <input asp-for="SupplierLongitude" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Register</button>
+</form>

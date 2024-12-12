@@ -1,0 +1,50 @@
+﻿@* @{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+ *@
+
+@{
+    ViewBag.Title = "Select Role";
+}
+
+<link href="/StyleSheet.css" rel="stylesheet" type="text/css" />
+
+<div class="container">
+    <h2>Select Your Role</h2>
+    <div class="row mt-4">
+        <!-- Supplier Card -->
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Are you a Supplier?</h5>
+                    <a href="@Url.Action("Login", "Supplier")" class="btn btn-primary mt-3">Login</a>
+                    <a href="@Url.Action("Register", "Supplier")" class="btn btn-secondary mt-3">Register</a>
+                </div>
+            </div>
+        </div>
+        <!-- Admin Card -->
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Are you an Admin?</h5>
+                    <a href="@Url.Action("Login", "Admin")" class="btn btn-primary mt-3">Login</a>
+                </div>
+            </div>
+        </div>
+        <!-- User Card -->
+        <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">Are you a User?</h5>
+                    <a href="@Url.Action("Login", "User")" class="btn btn-primary mt-3">Login</a>
+                    <a href="@Url.Action("Register", "User")" class="btn btn-secondary mt-3">Register</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

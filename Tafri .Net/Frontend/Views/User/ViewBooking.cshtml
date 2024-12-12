@@ -1,0 +1,40 @@
+﻿@model Frontend.Models.BookingsDTO
+
+<div class="container">
+    <h2>Booking Details</h2>
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>Booking ID</th>
+                <td>@Model.BookingId</td>
+            </tr>
+            <tr>
+                <th>User ID</th>
+                <td>@Model.UserId</td>
+            </tr>
+            <tr>
+                <th>Package Name</th>
+                <td>@Model.PackageName</td>
+            </tr>
+            <tr>
+                <th>Source</th>
+                <td>@Model.Source</td>
+            </tr>
+            <tr>
+                <th>Destination</th>
+                <td>@Model.Destination</td>
+            </tr>
+            <tr>
+                <th>Journey Start Date</th>
+                <td>@Model.JourneyStartDatetime.ToString("yyyy-MM-dd")</td>
+            </tr>
+            <tr>
+                <th>FASL</th>
+                <td>@Model.FASL</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Optionally, you can add a back button to return to the bookings list -->
+    <a href="@Url.Action("ListBookings", "User")" class="btn btn-secondary">Back to Bookings</a>
+</div>

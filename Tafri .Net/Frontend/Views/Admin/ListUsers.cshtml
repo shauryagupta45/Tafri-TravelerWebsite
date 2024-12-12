@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Frontend.Models.User>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<h2>All Users Registered with TafriHolidays</h2>
+
+@if (Model.Any())
+{
+    foreach (var user in Model)
+    {
+        var cardHeaderClass = user.AdminStatus == "Approved" ? "bg-light-green text-dark" : "bg-light-red text-dark";
+
+        <div class="card mb-3">
+            <div class="card-header @cardHeaderClass">
+                <h5 class="card-title">@user.UserName</h5>
+                <p class="card-subtitle text-muted">Email: @user.UserEmail | Phone: @user.UserPhoneNumber</p>
+            </div>
+            <div class="card-body">
+                <p class="card-text"><strong>Date of Birth:</strong> @user.UserDOB.ToString("dd MMM yyyy")</p>
+                <p class="card-text"><strong>Gender:</strong> @user.UserGender</p>
+                <p class="card-text"><strong>User ID:</strong> @user.UserId</p>
+            </div>
+            <div class="card-footer text-muted">
+                <form method="post" action="@Url.Action("ActivateUser", "Admin")" style="display:inline;">
+                    <input type="hidden" name="userId" value="@user.UserId" />
+                    <button type="submit" class="btn btn-success">Activate</button>
+                </form>
+
+                <form method="post" action="@Url.Action("DeactivateUser", "Admin")" style="display:inline;">
+                    <input type="hidden" name="userId" value="@user.UserId" />
+                    <button type="submit" class="btn btn-danger">Deactivate</button>
+                </form>
+
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p>No users found matching your criteria.</p>
+}
+
+<style>
+    .bg-light-green {
+        background-color: #d4edda;
+    }
+
+    .bg-light-red {
+        background-color: #f8d7da;
+    }
+
+    .text-dark {
+        color: #343a40;
+    }
+</style>

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Frontend.Models.Booking>
+
+<h2>Your Bookings</h2>
+
+@if (Model.Any())
+{
+    foreach (var booking in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Booking Reference:</h5>
+                <p><strong>Package:</strong> </p>
+                <p><strong>Date of Booking:</strong> </p>
+                <p><strong>Total Price:</strong> </p>
+                <p><strong>Status:</strong> </p>
+            </div>
+        </div>
+    }
+}
+else
+{
+    <p>You have no bookings.</p>
+}

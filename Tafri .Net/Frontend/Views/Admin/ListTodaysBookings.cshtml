@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Frontend.Models.BookingsDTO>
+
+@{
+    ViewData["Title"] = "Today's Bookings";
+}
+
+<!-- Add jQuery and DataTables CSS/JS -->
+@section Scripts {
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+        <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+
+        <script>
+            $(document).ready(function() {
+                $('#bookingsTable').DataTable();
+            });
+        </script>
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (Model == null || !Model.Any())
+{
+        <div class="alert alert-warning" role="alert">
+            No bookings coming ahead.
+        </div>
+}
+else
+{
+        <!-- Display the list of today's bookings -->
+        <div class="card mt-4">
+            <div class="card-header">
+                <h5 class="card-title">Upcoming Bookings</h5>
+            </div>
+            <div class="card-body">
+                <table id="bookingsTable" class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Booking ID</th>
+                            <th>User ID</th>
+                            <th>Package ID</th>
+                            <th>Journey Start</th>
+                            <th>Package Name</th>
+                            <th>Source</th>
+                            <th>Destination</th>
+                            <th>FASL</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var booking in Model)
+                    {
+                                <tr>
+                                    <td>@booking.BookingId</td>
+                                    <td>@booking.UserId</td>
+                                    <td>@booking.PackageId</td>
+                                    <td>@booking.JourneyStartDatetime</td>
+                                    <td>@booking.PackageName</td>
+                                    <td>@booking.Source</td>
+                                    <td>@booking.Destination</td>
+                                    <td>@booking.FASL</td>
+                                </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+}

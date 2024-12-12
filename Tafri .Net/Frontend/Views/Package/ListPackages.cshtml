@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Frontend.Models.Package>
+
+<h1>List of Packages</h1>
+
+@if (Model == null || !Model.Any())
+{
+    <p>No packages available for this supplier.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Package Name</th>
+                <th>Source</th>
+                <th>Destination</th>
+                <th>Price</th>
+                <th>Status</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var package in Model)
+            {
+                <tr>
+                    <td>@package.PackageName</td>
+                    <td>@package.Source</td>
+                    <td>@package.Destination</td>
+                    <td>@package.PackagePrice</td>
+                    <td>@package.SupplierStatus</td>
+                    <td>
+                        <a asp-controller="Package" asp-action="UpdatePackage" asp-route-id="@package.PackageId" class="btn btn-sm btn-primary">Edit</a>
+                        |
+                        @if (package.SupplierStatus == "Active")
+                        {
+                            <a asp-controller="Package" asp-action="DeactivatePackage" asp-route-id="@package.PackageId" class="btn btn-sm btn-danger">Deactivate</a>
+                        }
+                        else
+                        {
+                            <a asp-controller="Package" asp-action="ActivatePackage" asp-route-id="@package.PackageId" class="btn btn-sm btn-success">Activate</a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-controller="Package" asp-action="AddPackage" class="btn btn-warning">Add Package</a>

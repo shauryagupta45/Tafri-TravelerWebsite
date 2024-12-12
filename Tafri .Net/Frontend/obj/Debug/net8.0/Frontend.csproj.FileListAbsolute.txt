@@ -1,0 +1,1134 @@
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\appsettings.json
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\ASP.NET\TafriHolidays\API\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\gausar01\Downloads\TafriHolidays\TafriHolidays\API\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\ishjos01\Downloads\TafriHolidays (2) (1)\TafriHolidays\API\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\ishjos01\Downloads\API_3rdSept2024 (2)\API_3rdSept2024\API\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\gausar01\Downloads\API_3rdSept2024_5.57PM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\ishjos01\Downloads\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Users\ishjos01\OneDrive - Robert Half\Desktop\API_5thSept2024_11.38AM\API_4thSept2024_12.36AM\API_6thSept2024_12.00AM\API_3rdSept2024_5.57PM\Frontend\obj\Debug\net8.0\ref\Frontend.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\appsettings.Development.json
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\appsettings.json
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Frontend.staticwebassets.runtime.json
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Frontend.exe
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Frontend.deps.json
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Frontend.runtimeconfig.json
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Frontend.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Frontend.pdb
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Humanizer.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\MySqlConnector.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.CodeDom.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\System.Text.Json.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.csproj.AssemblyReference.cache
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfoInputs.cache
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.AssemblyInfo.cs
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.csproj.CoreCompileInputs.cache
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cs
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cache
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.RazorAssemblyInfo.cs
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.Frontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.build.Frontend.props
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Frontend.props
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Frontend.props
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\scopedcss\bundle\Frontend.styles.css
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\scopedcss\projectbundle\Frontend.bundle.scp.css
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.csproj.Up2Date
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\refint\Frontend.dll
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.pdb
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\Frontend.genruntimeconfig.cache
+C:\Work\Shaurya\Projects\Tafri\Tafri .Net\Frontend\obj\Debug\net8.0\ref\Frontend.dll

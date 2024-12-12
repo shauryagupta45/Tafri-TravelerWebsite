@@ -1,0 +1,150 @@
+﻿@model IEnumerable<Frontend.Models.Package>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<style>
+    .card-link {
+        text-decoration: none; /* Remove underline */
+        color: inherit; /* Ensure that the link doesn't change text color */
+    }
+
+    .package-card {
+        color: black; /* Set text color to black */
+        transition: box-shadow 0.3s ease; /* Smooth transition for hover effect */
+        cursor: pointer; /* Add pointer cursor on hover */
+    }
+
+        .package-card:hover {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+            transform: translateY(-2px); /* Slight upward shift on hover */
+        }
+
+        .package-card h5, .package-card p {
+            color: black; /* Ensure all text inside the card is black */
+        }
+
+    .btn {
+        margin-top: 10px; /* Add some margin to the buttons for spacing */
+    }
+</style>
+
+<h2>Browse Packages</h2>
+
+<form id="filterForm">
+    <div class="form-group">
+        <label for="destination">Destination</label>
+        <select class="form-control" id="destination" name="destination" onchange="filterPackages()">
+            <option value="">Select Destination</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="source">Source</label>
+        <select class="form-control" id="source" name="source" onchange="filterPackages()">
+            <option value="">Select Source</option>
+        </select>
+    </div>
+</form>
+
+<hr />
+
+<!-- Package List -->
+<div id="packageList">
+    @if (Model.Any())
+    {
+        foreach (var package in Model)
+        {
+            <a href="@Url.Action("PackageDetails", "Package", new { id = package.PackageId })" class="card-link">
+                <div class="card mb-3 package-card" data-source="@package.Source" data-destination="@package.Destination">
+                    <div class="card-body">
+                        <h5 class="card-title">@package.PackageName</h5>
+                        <p class="card-text">@package.PackageDesc</p>
+                        <p><strong>Price:</strong> &#x20B9;@package.PackagePrice</p>
+                        <p><strong>Source:</strong> @package.Source</p>
+                        <p><strong>Destination:</strong> @package.Destination</p>
+                        <form method="post" asp-action="AddToWishlist">
+                            <input type="hidden" name="packageId" value="@package.PackageId" />
+                            <button type="submit" class="btn btn-secondary">Add to Wishlist</button>
+                        </form>
+                        <form method="post" asp-action="AddToCart">
+                            <input type="hidden" name="packageId" value="@package.PackageId" />
+                            <button type="submit" class="btn btn-primary">Add to Cart</button>
+                        </form>
+                    </div>
+                </div>
+            </a>
+        }
+    }
+    else
+    {
+        <p>No packages found matching your criteria.</p>
+    }
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+        var allPackages = @Html.Raw(Json.Serialize(Model));
+
+        // Function to load destinations from packages
+        function loadDestinations() {
+            var destinations = [...new Set(allPackages.map(p => p.destination))]; // Get unique destinations
+            var destinationDropdown = $('#destination');
+            destinationDropdown.empty();
+            destinationDropdown.append('<option value="">Select Destination</option>');
+            destinations.forEach(function (destination) {
+                destinationDropdown.append('<option value="' + destination + '">' + destination + '</option>');
+            });
+        }
+
+        // Function to load sources based on selected destination
+        function loadSources(destination) {
+            var sources = allPackages
+                .filter(p => p.destination === destination)
+                .map(p => p.source);
+            sources = [...new Set(sources)]; // Get unique sources
+
+            var sourceDropdown = $('#source');
+            sourceDropdown.empty();
+            sourceDropdown.append('<option value="">Select Source</option>');
+            sources.forEach(function (source) {
+                sourceDropdown.append('<option value="' + source + '">' + source + '</option>');
+            });
+        }
+
+        // Function to filter packages based on selected source and destination
+        function filterPackages() {
+            var destination = $('#destination').val();
+            var source = $('#source').val();
+
+            // Load sources if destination is selected
+            if (destination) {
+                loadSources(destination);
+            }
+
+            // Filter packages on frontend
+            $('.package-card').each(function () {
+                var packageDestination = $(this).data('destination');
+                var packageSource = $(this).data('source');
+
+                var matchesDestination = destination ? packageDestination === destination : true;
+                var matchesSource = source ? packageSource === source : true;
+
+                if (matchesDestination && matchesSource) {
+                    $(this).show();
+                } else {
+                    $(this).hide();
+                }
+            });
+        }
+
+        // Load destinations on page load
+        $(document).ready(function () {
+            loadDestinations();
+        });
+    </script>
+}

@@ -1,0 +1,159 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container mt-4">
+    <!-- Welcome Message -->
+    <div class="jumbotron">
+        <h1 class="display-4">Welcome, Admin!</h1>
+        <p class="lead">Manage the system using the options below.</p>
+        <hr class="my-4">
+        <p>Use the navigation cards to access various management pages.</p>
+    </div>
+
+    <div class="row">
+        <!-- Card for Approved Packages -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Approved Packages</h5>
+                    <p class="card-text">View all packages approved by the admin.</p>
+                    <a href="@Url.Action("ListAdminApprovedPackages", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Pending Packages -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Pending Packages</h5>
+                    <p class="card-text">View all packages pending admin approval.</p>
+                    <a href="@Url.Action("ListAdminPendingPackages", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for All Bookings -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">All Bookings</h5>
+                    <p class="card-text">View and manage all bookings.</p>
+                    <a href="@Url.Action("ListBookings", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Booking by User ID -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Bookings by User ID</h5>
+                    <p class="card-text">View bookings based on User ID.</p>
+                    <a href="@Url.Action("ListBookingByUserId", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Booking by Booking ID -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Booking by Booking ID</h5>
+                    <p class="card-text">Find a booking using its Booking ID.</p>
+                    <a href="@Url.Action("ListBookingByBookingId", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Bookings by Package ID -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Bookings by Package ID</h5>
+                    <p class="card-text">View bookings associated with a specific Package ID.</p>
+                    <a href="@Url.Action("ListBookingsByPackageId", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Past Bookings -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Past Bookings</h5>
+                    <p class="card-text">View all past bookings.</p>
+                    <a href="@Url.Action("ListPastBookings", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Today's Bookings -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Today's Bookings</h5>
+                    <p class="card-text">View bookings made today.</p>
+                    <a href="@Url.Action("ListTodaysBookings", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Upcoming Bookings -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Upcoming Bookings</h5>
+                    <p class="card-text">View all upcoming bookings.</p>
+                    <a href="@Url.Action("ListUpcommingBookings", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Packages -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">All Packages</h5>
+                    <p class="card-text">View and manage all packages.</p>
+                    <a href="@Url.Action("ListPackages", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Suppliers -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Suppliers</h5>
+                    <p class="card-text">View and manage all suppliers.</p>
+                    <a href="@Url.Action("ListSuppliers", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Users -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Users</h5>
+                    <p class="card-text">View and manage all users.</p>
+                    <a href="@Url.Action("ListUsers", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card for Users -->
+        <div class="col-md-4">
+            <div class="card mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Revenue Statistics</h5>
+                    <p class="card-text">View the revenue information.</p>
+                    <a href="@Url.Action("ListRevenueStatistics", "Admin")" class="btn btn-primary">Go to Page</a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

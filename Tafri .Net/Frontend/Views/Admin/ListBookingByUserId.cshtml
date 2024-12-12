@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Frontend.Models.BookingsDTO>
+
+@{
+    ViewData["Title"] = "Get Bookings By User ID";
+}
+
+<h2 class="mb-4">@ViewData["Title"]</h2>
+
+<!-- Form to submit User ID -->
+<form method="post" class="mb-4">
+    <div class="form-group">
+        <label for="userId" class="form-label">User ID:</label>
+        <input type="number" id="userId" name="userId" class="form-control @((ViewData.ModelState.IsValid) ? "" : "is-invalid")" required />
+        @if (ViewData.ModelState.ContainsKey("userId") && ViewData.ModelState["userId"].Errors.Count > 0)
+        {
+            <div class="invalid-feedback">
+                @foreach (var error in ViewData.ModelState["userId"].Errors)
+                {
+                    <p>@error.ErrorMessage</p>
+                }
+            </div>
+        }
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Submit</button>
+</form>
+
+<!-- Display validation errors for the whole form -->
+@if (ViewData.ModelState.Values.SelectMany(v => v.Errors).Any())
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>Oops!</strong> There was an issue with your request:
+        <ul class="mb-0">
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+@if (Model != null && Model.Any())
+{
+    <h4 class="mt-4">Booking List</h4>
+    @foreach (var booking in Model)
+    {
+        <div class="card mt-4">
+            <div class="card-header">
+                <h5 class="card-title">Booking Details</h5>
+            </div>
+            <div class="card-body">
+                <p><strong>Booking ID:</strong> @booking.BookingId</p>
+                <p><strong>User ID:</strong> @booking.UserId</p>
+                <p><strong>Package ID:</strong> @booking.PackageId</p>
+                <p><strong>Journey Start Datetime:</strong> @booking.JourneyStartDatetime</p>
+                <p><strong>Package Name:</strong> @booking.PackageName</p>
+                <p><strong>Source:</strong> @booking.Source</p>
+                <p><strong>Destination:</strong> @booking.Destination</p>
+                <p><strong>FASL:</strong> @booking.FASL</p>
+            </div>
+        </div>
+    }
+}

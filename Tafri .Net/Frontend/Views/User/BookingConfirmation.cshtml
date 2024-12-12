@@ -1,0 +1,24 @@
+﻿@{
+    bool success = Convert.ToBoolean(ViewBag.Success);
+}
+
+@if (success)
+{
+    <div class="alert alert-success">
+        <h4>Booking Confirmed</h4>
+        <p>Your booking has been confirmed. Here are the details:</p>
+        <ul>
+            <li>Package Name: @ViewBag.PackageName</li>
+            <li>Total Amount: $@ViewBag.TotalAmount</li>
+            <li>Journey Start Date and Time: @ViewBag.JourneyStartDatetime</li>
+            <li>Number of People: @ViewBag.TotalNumberOfPeople</li>
+        </ul>
+    </div>
+}
+else
+{
+    <div class="alert alert-danger">
+        <h4>Sorry, we could not process your payment.</h4>
+        <p>Please try again later.</p>
+    </div>
+}

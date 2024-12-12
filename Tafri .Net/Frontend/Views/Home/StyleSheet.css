@@ -1,0 +1,70 @@
+﻿body {
+    background-color: #000; /* Black background */
+    color: #fff; /* White text color */
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+h2 {
+    color: #fff; /* White color for headings */
+}
+
+.card {
+    background-color: #141414; /* Dark grey background for cards */
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+    border: 1px solid #333;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+    }
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #fff; /* White color for card titles */
+}
+
+.btn-primary {
+    background-color: #e50914; /* Netflix Red */
+    border: none;
+    width: 100%;
+    margin-bottom: 10px;
+    color: #fff; /* White text */
+}
+
+    .btn-primary:hover {
+        background-color: #f40612; /* Slightly lighter red on hover */
+    }
+
+.btn-secondary {
+    background-color: #333; /* Dark grey for secondary button */
+    border: none;
+    width: 100%;
+    margin-bottom: 10px;
+    color: #fff; /* White text */
+}
+
+    .btn-secondary:hover {
+        background-color: #444; /* Slightly lighter grey on hover */
+    }
+
+input[type="text"], input[type="email"] {
+    background-color: #333;
+    border: 1px solid #444;
+    color: #fff;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
